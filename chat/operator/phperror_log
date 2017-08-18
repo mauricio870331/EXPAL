@@ -1,0 +1,2 @@
+[22-Aug-2014 10:57:35 America/Bogota] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/expresop/public_html/chat/libs/common.php on line 303
+[22-Aug-2014 10:57:36 America/Bogota] PHP Warning:  stripslashes() expects parameter 1 to be string, array given in /home/expresop/public_html/chat/libs/common.php on line 303

@@ -1,0 +1,282 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+.destaque01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #003300;
+}
+.destaque02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #003300;
+}
+.destaque03 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #003300;
+}
+.campotexto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	background-color: #FFFFFF;
+	width: 100px;
+	margin: 0px;
+	height: 20px;
+	font-weight: bold;
+}
+.campotexto2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #EC59C4;
+	width: 200px;
+	margin-top: 5px;
+}
+#botones a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(../images/boton.jpg);
+	background-repeat: no-repeat;
+	width: 116px;
+	display: block;
+	float: left;
+	height: 40px;
+	line-height: 30px;
+	font-size: 11px;
+	text-align: center;
+	margin-left: 1px;
+}
+#botones a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #FFFF00;
+	text-decoration: none;
+	background-image: url(../images/boton.jpg);
+	background-repeat: no-repeat;
+	width: 116px;
+	display: block;
+	float: left;
+	height: 40px;
+	line-height: 30px;
+	font-size: 11px;
+	text-align: center;
+	margin-left: 1px;
+}
+#principal {
+	height: 720px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#cabezote {
+	background-image: url(../images/cabezote_internos.jpg);
+	background-repeat: no-repeat;
+	height: 94px;
+	width: 850px;
+}
+#cabazotesoloamarillo {
+	background-image: url(../images/cabezote_internos.jpg);
+	background-repeat: no-repeat;
+	float: right;
+	height: 19px;
+	width: 150px;
+	padding-top: 75px;
+	padding-left: 400px;
+}
+#marca {
+	background-image: url(../images/marca.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 94px;
+	width: 300px;
+}
+
+#selec_ciudad {
+	height: 70px;
+	width: 220px;
+	float: right;
+}
+
+#cabezote a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #278E0B;
+}
+#botones {
+	height: 42px;
+	width: 838px;
+	background-color: #FFFFFF;
+	padding-left: 12px;
+}
+#mainrutas {
+	height: 490px;
+	width: 850px;
+}
+#tiempo {
+	float: right;
+	height: 70px;
+	width: 300px;
+}
+
+#rutas {
+	height: 420px;
+	width: 823px;
+	float: right;
+	padding-right: 17px;
+	padding-left: 10px;
+}
+
+#texto_video {
+	height: 256px;
+	width: 850px;
+}
+#social {
+	background-image: url(../images/social_promo.jpg);
+	background-repeat: no-repeat;
+	height: 64px;
+	width: 850px;
+	float: right;
+}
+#creditos {
+	background-image: url(../images/creditos_promo.jpg);
+	background-repeat: no-repeat;
+	height: 25px;
+	width: 850px;
+	float: left;
+	text-align: center;
+	padding-top: 5px;
+}
+#texto_rutas {
+	height: 420px;
+	width: 290px;
+	float: left;
+	padding-left: 10px;
+}
+#swf_rutas {
+	float: right;
+	height: 420px;
+	width: 550px;
+}
+
+#video {
+	background-image: url(../images/videoquienes.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 256px;
+	width: 351px;
+}
+#texto {
+	background-image: url(../images/textoquienes.jpg);
+	background-repeat: no-repeat;
+	float: right;
+	height: 246px;
+	width: 479px;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+#menu_rutas {
+	float: left;
+	height: 420px;
+	width: 100px;
+}
+#img_maps {
+	float: right;
+	height: 420px;
+	width: 410px;
+}
+#textos_rutas {
+	float: right;
+	height: 420px;
+	width: 293px;
+}
+h2 {
+	color: #006600;
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 35px;
+}
+
+ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        }
+
+img {
+    border: none;
+}
+
+/*- Menu 8--------------------------- */
+
+#menu8 {
+	width: 90px;
+	margin: 10px;
+	border-size: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #656556;
+	border-right-color: #656556;
+	border-bottom-color: #656556;
+	border-left-color: #656556;
+        }
+
+#menu8 li a {
+	height: 32px;
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	height: 20px;
+	text-decoration: none;
+        }
+
+#menu8 li a:link, #menu8 li a:visited {
+	color: #656556;
+	display: block;
+	background-image: url(../images/menu8.gif);
+	padding-top: 5px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 20px;
+        }
+
+#menu8 li a:hover, #menu8 li #current {
+	color: #474739;
+	background-image: url(../images/menu8.gif);
+	background-position: 0 -32px;
+	padding-top: 5px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 20px;
+        }
+#clima {
+	height: 100px;
+	width: 283px;
+	padding-left: 10px;
+}
+#texto_rutas_final {
+	height: 290px;
+	width: 273px;
+	padding-left: 20px;
+	padding-top: 30px;
+	display: block;
+	overflow: auto;
+}

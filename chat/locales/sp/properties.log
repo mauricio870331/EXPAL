@@ -1,0 +1,278 @@
+# Fri, 22 Jul 11 11:52:07 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+button.offline=Fuera de Linea
+# Fri, 22 Jul 11 11:52:30 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+button.offline.bottom=Deje su mensaje
+# Fri, 22 Jul 11 11:54:20 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+button.offline.top=Sito de Consulta
+# Fri, 22 Jul 11 11:54:38 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+button.online=En linea
+# Fri, 22 Jul 11 11:55:36 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+button.online.bottom=Plantee su pregunta
+# Fri, 22 Jul 11 11:56:01 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+button.online.top=Sitio de consulta
+# Fri, 22 Jul 11 11:56:42 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+char.redirect.operator.away_suff=(Ausente)
+# Fri, 22 Jul 11 11:58:04 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+button.offline=Fuera de Línea
+# Fri, 22 Jul 11 11:58:51 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+button.online=En línea
+# Fri, 22 Jul 11 12:06:20 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+chat.redirected.group.content=Visitante en espera prioritaria por el grupo {0}.
+# Fri, 22 Jul 11 12:08:09 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+errors.captcha=Las letras que escribió no coinciden con las letras que se muestran en la imagen.
+# Fri, 22 Jul 11 12:09:40 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.groupemail.description=Grupo de correo electrónico para las notificaciones. Dejar en blanco para utilizar la dirección por defecto.
+# Fri, 22 Jul 11 12:10:33 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.mail=Correo
+# Fri, 22 Jul 11 12:11:06 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.mail.description=Para las notificaciones y la recuperación de la contraseña.
+# Fri, 22 Jul 11 12:11:51 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.5.newmessage=Nuevo mensaje
+# Fri, 22 Jul 11 12:12:13 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.5.newvisitor=Nuevo visitante
+# Fri, 22 Jul 11 12:13:09 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.5.text=Haga clic para activar el sonido: {0} y {1}
+# Fri, 22 Jul 11 12:14:26 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.bad_checksum=Suma de control (Checksum) diferente para {0}
+# Fri, 22 Jul 11 12:14:58 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.cannot_read=No se puede leer el archivo {0}
+# Fri, 22 Jul 11 12:15:39 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.check_files=Por favor, vuelva a subir los archivos al servidor.
+# Fri, 22 Jul 11 12:17:48 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.check_permissions=Permisos insuficientes del archivo {0}
+# Fri, 22 Jul 11 12:24:35 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.newfeatures=¡Felicitaciones! Ahora tiene Mibew Messenger {1} instalado. Active más caracteristicas en la página de <a href="{0}">Servicios opcionales</a>.
+# Fri, 22 Jul 11 12:25:27 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.no_file=El archivo no esta presente: {0}
+# Fri, 22 Jul 11 12:26:00 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+license.title=Licencia
+# Fri, 22 Jul 11 12:26:38 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+menu.goonline=Estas desconectado..<br/><a href="{0}">Conectarse..</a>
+# Fri, 22 Jul 11 12:28:12 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.gen_button.modsecurity=Compatibilidad con modo seguro (modsecurity.org), enciendalo solamente si presenta problemas.
+# Fri, 22 Jul 11 12:29:09 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.gen_button.modsecurity=Compatibilidad con mod_security (modsecurity.org), enciendalo solamente si presenta problemas.
+# Fri, 22 Jul 11 12:29:41 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.gen_button.modsecurity=Compatibility with mod_security (modsecurity.org), turn on only if you have problems with it
+# Fri, 22 Jul 11 12:30:08 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.gen_button.modsecurity=Compatibilidad con mod_security (modsecurity.org), turn on only if you have problems with it
+# Fri, 22 Jul 11 12:30:49 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.gen_button.modsecurity=Compatibilidad con modo seguro (modsecurity.org), encienda solamente si hay problemas
+# Fri, 22 Jul 11 12:31:39 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.group.duplicate_name=Por favor digita otro nombre, debido a que ya existe el nombre ingresado
+# Fri, 22 Jul 11 12:32:48 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+mail.user.history.subject=Messenger: Histórico conversaciones
+# Fri, 22 Jul 11 12:33:38 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+mail.user.history.subject=Messenger: Histórico de mensajes
+# Fri, 22 Jul 11 12:33:53 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+mail.user.history.subject=Messenger: Histórico
+# Fri, 22 Jul 11 12:34:28 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+mail.user.history.subject=Messenger: dialog history
+# Fri, 22 Jul 11 12:35:34 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+mail.user.history.subject=Mibew Messenger: dialog history
+# Fri, 22 Jul 11 12:36:17 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+mail.user.history.subject=Mibew Messenger: Histórico de mensajes
+# Fri, 22 Jul 11 12:37:38 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.groups.confirm=¿Está seguro que desea eliminar el grupo "{0}"?
+# Fri, 22 Jul 11 12:39:04 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+menu.groups.content=Department or skill based operator groups.
+# Fri, 22 Jul 11 12:41:50 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+menu.groups.content=Departamento o maestría basada en grupos de operadores.
+# Fri, 22 Jul 11 12:44:44 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+menu.profile.content=Usted puede cambiar su información personal en esta página.
+# Fri, 22 Jul 11 12:47:24 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+app.descr=Mibew Messenger es un aplicación de código abierto para el soporte en línea.
+# Fri, 22 Jul 11 12:50:00 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+ban.error.duplicate=Dirección {0} esta en uso, clic <a href="ban.php?id={1}">aquí</a> para editarla.
+# Fri, 22 Jul 11 12:51:06 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+ban.error.duplicate=Direccion está en uso, haga clic <a href="ban.php?id={1}">aquí</a> para editarla.
+# Fri, 22 Jul 11 12:51:22 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+ban.error.duplicate=Dirección está en uso, haga clic <a href="ban.php?id={1}">aquí</a> para editarla.
+# Fri, 22 Jul 11 12:52:07 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+canned.descr=Editar mensajes de uso frecuente en el chat.
+# Fri, 22 Jul 11 12:52:41 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+chat.client.name=Su nombre:
+# Fri, 22 Jul 11 12:53:10 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+chat.client.name=Usted es
+# Fri, 22 Jul 11 12:54:11 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+chat.client.visited.page=Visitante navega a {0}
+# Fri, 22 Jul 11 12:55:18 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+chat.redirect.cannot=No estas conversando con ningún visitante.
+# Fri, 22 Jul 11 12:56:00 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+common.asterisk_explanation=<b><font class="red">*</font></b> - mandatory fields
+# Fri, 22 Jul 11 12:56:34 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+common.asterisk_explanation=<b><span style='font-size:8.0pt;color:red'>*</span></b> - mandatory fields
+# Fri, 22 Jul 11 12:56:51 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+common.asterisk_explanation=<b><font class="red">*</font></b> - mandatory fields
+# Fri, 22 Jul 11 12:57:50 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+common.asterisk_explanation=<b><span style='font-size:8.0pt;color:red'>*</span></b> - campos obligatorios
+# Fri, 22 Jul 11 12:58:43 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+content.history=Buscar historico de conversación.
+# Fri, 22 Jul 11 14:00:28 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.ban_days.description=¿Cuántos días desea ignorar esta dirección?
+# Fri, 22 Jul 11 14:01:11 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.ban_days.description=¿Cuántos días desea ignorar esta dirección?
+# Fri, 22 Jul 11 14:01:34 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.ban_days.description=Numbers of days this address is blocked
+# Fri, 22 Jul 11 14:02:36 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.ban_days.description=¿Días a ignorar esta dirección?
+# Fri, 22 Jul 11 14:02:57 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.ban_days.description=Días a ignorar esta dirección.
+# Fri, 22 Jul 11 14:03:44 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.ban_days.description=Número de días a ignorard
+# Fri, 22 Jul 11 14:04:17 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.ban_days.description=Número de días a ignorar esta dirección
+# Fri, 22 Jul 11 14:25:29 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.groupcommondesc.description=Description in English.
+# Fri, 22 Jul 11 14:25:54 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.groupcommondesc.description=Descripción in Español.
+# Fri, 22 Jul 11 14:26:12 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.groupcommondesc.description=Descripción en Español.
+# Fri, 22 Jul 11 14:27:16 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.login.description=Inicio de sesión puede consistir en pequeñas letras latinas y subrayado.
+# Fri, 22 Jul 11 14:28:05 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+form.field.password_confirm.description=Confirmar nueva contraseña.
+# Fri, 22 Jul 11 14:28:37 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.0.app=Ruta de la aplicación es {0}
+# Fri, 22 Jul 11 14:29:17 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.0.package=El paquete Mibew es valido.
+# Fri, 22 Jul 11 14:30:46 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+install.4.notice=La estructura de las tablas deben ser ajustadas para la nueva versión de Messenger.
+# Fri, 22 Jul 11 14:35:04 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+installed.notice=Puede iniciar sesión como <b>administrador</b> con contraseña vacia.<br/><br/><font color="#c13030"><b>!!! Por razones de seguridad, por favor cambie inmediatamente su contraseña y elimine la carpeta {0} de su servidor.</b></font>
+# Fri, 22 Jul 11 14:36:58 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+menu.updates.content=Compruebe si hay noticias y actualizaciones.
+# Fri, 22 Jul 11 14:37:52 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+operator.groups.intro=Seleccione los grupos de acuerdo a las habilidades del operador.
+# Fri, 22 Jul 11 14:41:53 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.group.duplicate_name=Por favor, elija otro nombre, porque el nombre del grupo introducido ya existe.
+# Fri, 22 Jul 11 14:42:29 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.group.intro=En esta página puede editar los detalles del grupo.
+# Fri, 22 Jul 11 14:42:58 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.groups.isaway=Ausente
+# Fri, 22 Jul 11 14:45:04 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.groups.isonline=En línea
+# Fri, 22 Jul 11 14:46:53 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.preview.intro=Desde aquí, puede ver la lista de estilos que tiene instalados.
+# Fri, 22 Jul 11 14:47:54 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page.preview.survey=Encuesta antes de chat
+# Fri, 22 Jul 11 14:55:21 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_agent.cannot_modify=No tienes permisos para cambiar el perfil de esta persona.
+# Fri, 22 Jul 11 14:56:01 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_agent.create_new=Aquí puede crear un nuevo operador.
+# Fri, 22 Jul 11 15:22:43 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_agents.confirm=¿Está seguro que desea eliminar el operador "{0}"?
+# Fri, 22 Jul 11 15:30:48 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_agents.isaway=Ausente
+# Fri, 22 Jul 11 15:58:01 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_agents.isonline=En línea
+# Fri, 22 Jul 11 15:58:21 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_agents.status=última actividad
+# Fri, 22 Jul 11 15:59:15 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_bans.confirm=¿Está seguro que desea eliminar la dirección {0} de la lista de bloqueados?
+# Fri, 22 Jul 11 16:05:27 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_settings.intro=Especifique las opciones que afectan a la ventana de chat y el comportamiento del sistema.
+# Fri, 22 Jul 11 16:06:39 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+page_settings.tab.performance=Rendimiento
+# Fri, 22 Jul 11 16:07:22 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+pending.status.setaway=Establecer estado "Ausente"
+# Fri, 22 Jul 11 16:08:09 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+pending.status.setonline=Establecer estado "Disponible"
+# Fri, 22 Jul 11 16:08:56 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+permission.modifyprofile=Habilitado para modificar el perfil
+# Fri, 22 Jul 11 16:09:47 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+permissions.intro=Cambiar las restricciones y las características disponibles para este operador.
+# Fri, 22 Jul 11 16:11:17 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+presurvey.intro=Gracias por contactarnos! Para brindarle un mejor servicio, por favor, completa el siguiente formulario y haga clic en el botón Iniciar Chat.
+# Fri, 22 Jul 11 16:12:14 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+resetpwd.changed=Inicie sesión con su nueva contraseña.
+# Fri, 22 Jul 11 16:12:54 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+resetpwd.changed.title=Su contraseña se ha cambiado!
+# Fri, 22 Jul 11 16:13:44 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+resetpwd.intro=Por favor, elija una contraseña para usar con su cuenta de Mibew.
+# Fri, 22 Jul 11 16:15:15 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+resetpwd.login=Inicia sesión
+# Fri, 22 Jul 11 16:15:48 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+resetpwd.submit=Modificar
+# Fri, 22 Jul 11 16:16:22 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+resetpwd.title=Cambie su contraseña Mibew
+# Fri, 22 Jul 11 16:30:21 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.back_to_login=Vuelva a iniciar sesión
+# Fri, 22 Jul 11 16:33:36 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.emailorlogin=Usuario o Correo:
+# Fri, 22 Jul 11 16:35:19 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.intro=No puedes obtener tu contraseña, pero puedes especificar una nueva visitando el enlace que te enviamos por correo electrónico.
+# Fri, 22 Jul 11 16:35:46 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.mailsubj=Restablecer su contraseña Mibew
+# Fri, 22 Jul 11 16:36:48 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.mailtext=Hola, {0}\n\nPor favor, haga clic en el siguiente enlace o copie y pegue el URL en su navegador: {1}\n\nEsto le permitirá elegir una nueva contraseña.
+# Fri, 22 Jul 11 16:37:18 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.mailtext=Hola, {0}\n\nPor favor, haga clic en el siguiente enlace o copie y pegue el URL en su navegador: {1}\n\nEsto le permitirá elegir una nueva contraseña.
+# Fri, 22 Jul 11 16:37:45 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.pwd.message=¿Olvidaste tu contraseña?
+# Fri, 22 Jul 11 16:40:52 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.sent=Hemos enviado las instrucciones a su correo electrónico. Por favor, compruébelo!
+# Fri, 22 Jul 11 16:43:13 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.sent.title=recuperación de contraseña
+# Fri, 22 Jul 11 16:43:42 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.submit=restablecimiento de la contraseña
+# Fri, 22 Jul 11 16:44:24 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.title=Problemas para acceder a su cuenta?
+# Fri, 22 Jul 11 16:45:05 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.enablepresurvey=Habilitar pre encuesta chat
+# Fri, 22 Jul 11 16:46:14 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.enablepresurvey.description=Obligar al usuario a llenar un formulario especial para empezar a chatear.
+# Fri, 22 Jul 11 16:47:11 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.enablestatistics.description=Añade la página con los informes de uso de mensajería.
+# Fri, 22 Jul 11 16:48:16 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.frequencychat=Chat en tiempo de actualización.
+# Fri, 22 Jul 11 16:48:32 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.frequencychat=Chat en tiempo de actualización
+# Fri, 22 Jul 11 16:49:14 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.frequencychat.description=Especificar el intervalo de sondeo en cuestión de segundos. Por defecto es de 2 segundos.
+# Fri, 22 Jul 11 16:50:43 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.frequencyoldchat=Página de tiempo de actualización para navegadores antiguos
+# Fri, 22 Jul 11 16:51:43 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.frequencyoldchat.description=Navegadores antiguos que tengan que actualizar toda la página para recibir mensajes. Por defecto es de 7 segundos.
+# Fri, 22 Jul 11 16:52:48 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.frequencyoperator=Operador de la consola de tiempo de refresco
+# Fri, 22 Jul 11 16:53:28 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.leavemessage_captcha=Fuerza de visitante para entrar en el código de verificación al dejar mensaje
+# Fri, 22 Jul 11 16:54:28 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.frequencyoperator.description=Especificar el intervalo de sondeo en cuestión de segundos. Por defecto es de 2 segundos.
+# Fri, 22 Jul 11 16:55:10 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.leavemessage_captcha.description=Protección contra el spam (captcha)
+# Fri, 22 Jul 11 16:57:49 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.logo.description=Introduzca la dirección http de su logotipo de la empresa
+# Fri, 22 Jul 11 16:58:47 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.logo.description=Introduzca la dirección http de su logotipo de la empresa
+# Fri, 22 Jul 11 16:58:52 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.onehostconnections.description=0, permite cualquier número de conexiones
+# Fri, 22 Jul 11 17:02:13 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.onlinetimeout=Umbral de tiempo en línea del Operador
+# Fri, 22 Jul 11 17:04:11 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.onlinetimeout.description=Establecer el número de segundos para mostrar un operador en línea. Predeterminado es 30 segundos.
+# Fri, 22 Jul 11 17:04:29 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.popup_notification=Habilitar "Dialogo de notificación de nuevos visitantes".
+# Fri, 22 Jul 11 17:04:49 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.popup_notification.description=Mostrar una ventaña pequeña para atraer tu atención.
+# Fri, 22 Jul 11 17:05:28 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.show_online_operators=Mostrar los operadores en línea en la "Lista de espera de los visitantes" de la página
+# Fri, 22 Jul 11 17:06:09 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+restore.mailtext=Hola, {0}\n\nPor favor, haga clic en el siguiente enlace o copie y pegue el URL en su navegador: {1}\n\nEsto le permitirá elegir una nueva contraseña.\n\nMibew Messenger.
+# Fri, 22 Jul 11 17:06:56 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+settings.show_online_operators.description=Puede reducir la velocidad de actualización de la lista
+# Fri, 22 Jul 11 17:10:39 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+thread.intro=Esta página muestra los detalles de la charla y el contenido.
+# Fri, 22 Jul 11 17:15:09 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+time.never=Nunca
+# Fri, 22 Jul 11 17:17:52 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+time.today.at=Hoy a las
+# Fri, 22 Jul 11 17:18:42 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+time.yesterday.at=Ayer a las
+# Fri, 22 Jul 11 17:19:07 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+updates.intro=Actualizaciones de Web Messenger.
+# Fri, 22 Jul 11 17:19:38 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+updates.intro=Actualizaciones de Web Messenger
+# Fri, 22 Jul 11 17:19:58 -0500 by 201.234.242.21 using Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)
+updates.intro=Actualizaciones de Web Messenger.

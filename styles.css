@@ -1,0 +1,29 @@
+
+.table-prices{
+width:100%;
+border-collapse: collapse;
+}
+
+ .table-prices  tr{
+ height:20px;
+ 
+}
+
+ .table-prices  th, td {
+    border:1px solid #A7A8AD;
+	font-weight:bold;
+}
+
+.tr-white{
+background-color: white;
+}
+
+.tr-gray{
+background-color: #D9DADE;
+}
+
+
+ .table-prices    td {
+  padding:2%;
+  font-size:12px;
+}

@@ -1,0 +1,3 @@
+cachedisable /
+php_value date.timezone "America/Bogota"
+AddType application/x-httpd-php55 php

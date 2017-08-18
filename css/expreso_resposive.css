@@ -1,0 +1,263 @@
+
+
+@media only screen and (min-width: 768px) {
+    #main{
+	padding-left: 5px !important;
+    padding-right: 5px !important;
+	
+	}
+	
+	.ep-home-button-reserva, .ep-home-button-chat{
+	
+	    width: 120px;
+	}
+	
+	.ep-home-button-gps{
+ 
+    right: 20%;
+    top: 80%;
+    width: 123px;
+    font-size: 13px;
+	}
+	
+	
+	.banner-fijo-img{
+		display:none!important;
+	}
+	
+	#owl-demo{
+	  width: 420px!important;
+	}
+}
+
+@media only screen and (min-width: 890px) {
+    
+	
+	#owl-demo{
+	  width: 444px!important;
+	}
+}
+
+@media only screen and (min-width: 930px) {
+    
+	
+	#owl-demo{
+	  width: 460px!important;
+	}
+}
+
+@media only screen and (min-width: 970px) {
+    
+	
+	#owl-demo{
+	  width: 480px!important;
+	}
+}
+
+@media only screen and (min-width: 1000px) {
+    
+	
+	#owl-demo{
+	  width: 500px!important;
+	}
+	
+	.ep-home-button-reserva{
+		width: 140px;
+	}
+	
+	.ep-home-button-chat{
+		width: 140px;
+	}
+	
+	
+	.ep-home-button-gps{
+		    width: 140px;
+	}
+}
+
+
+@media only screen and (min-width: 1036px) {
+	.banner-fijo-img{
+	 max-width: 97%;!important;
+	} 
+}
+
+@media only screen and (min-width: 1040px) {
+	#owl-demo{
+	  width: 520px!important;
+	} 
+}
+
+@media only screen and (min-width: 1080px) {
+	#owl-demo{
+	  width: 540px!important;
+	} 
+}
+
+@media only screen and (min-width: 1090px) {
+		.banner-fijo-img{
+	margin-left: 8px;
+	} 
+}
+
+@media only screen and (min-width: 1111px) {
+	#owl-demo{
+	  width: 560px!important;
+	} 
+}
+
+@media only screen and (min-width: 1150px) {
+	#owl-demo{
+	  width: 100%!important;
+	} 
+	
+	
+	.banner-fijo-img{
+		display:block!important;
+	}
+	
+	.ep-home-button-gps{
+	
+	width: 190px!important;
+	right: 15%!important;
+	}
+	
+}
+@media only screen and (min-width: 1170px) {
+		.ep-home-button-reserva{
+		        left: 20%!important;
+				    width: 170px!important;
+	}
+	.ep-home-button-chat{
+		        left: 20%!important;
+				    width: 170px!important;
+	}
+}
+
+@media only screen and (min-width: 1180px) {
+		.ep-home-button-gps{
+		    width: 185px;
+			right: 14%;
+	}
+	
+}
+
+
+
+@media only screen and (min-width: 1230px) {
+		.ep-home-button-reserva{
+		       width: 190px!important;
+	}
+	
+		.ep-home-button-chat{
+		       width: 190px!important;
+	}
+	
+}
+
+
+@media only screen and (min-width: 1278px) {
+		.ep-home-button-gps{
+	 width: 200px!important;
+	}
+	
+}
+
+
+@media only screen and (min-width:1313px) {
+		.ep-home-button-gps{
+	 right: 17%!important;
+	}
+	
+}
+
+@media only screen and (min-width:1340px) {
+		.ep-home-button-reserva{
+	    width: 205px!important;
+	}
+	
+		.ep-home-button-chat{
+	    width: 205px!important;
+	}
+	
+	
+	.banner-fijo-img{
+	    width: 98%!important;
+	}
+	
+}
+
+@media only screen and (min-width:1365px) {
+		.ep-home-button-gps{
+	 right: 18%!important;
+	}
+	
+}
+
+@media only screen and (min-width:1390px) {
+		.ep-home-button-gps{
+	 right: 20%!important;
+	}
+	
+}
+
+@media only screen and (min-width:1420px) {
+	.ep-home-button-reserva, .ep-home-button-chat{
+	
+	    left: 24%!important;
+		    width: 190px!important;
+	}
+	
+}
+
+@media only screen and (min-width:1465px) {
+	.ep-home-button-gps{
+	          right: 24%!important;
+    width: 207px!important;
+	 }
+	
+}
+
+
+@media only screen and (min-width:1492px) {
+	  .ep-home-button-gps{
+	         right: 24%!important;
+    width: 210px!important;
+	 }
+}
+
+@media only screen and (min-width:1500px) {
+	 
+	
+}
+
+@media only screen and (min-width:1511px) {
+	 
+	
+}
+
+@media only screen and (min-width:1540px) {
+	 
+	.ep-home-button-reserva, .ep-home-button-chat{
+	
+	      left: 27%!important;
+	}
+	
+}
+
+@media only screen and (min-width:1568px) {
+	 
+	 
+	
+}
+
+@media only screen and (max-width: 768px) {
+     .rutas-y-destinos-img{
+		margin-bottom:20px;
+	 }
+	 
+	 .cliente-ultra-img{
+		margin-bottom:20px;
+		margin-top:20px;
+	 }
+}
